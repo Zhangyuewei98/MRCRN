@@ -1,1 +1,2 @@
 # MRCRN
+This repo provides the processed samples on the noisy audios of the [VoiceBank_DEMAND noisy testet](https://datashare.ed.ac.uk/handle/10283/2791), which are enhanced by our MRCRN model from the manuscript "Real-time Speech Enhancement Based on Multi-resolution Feature Analysis". The source code will be available later.
